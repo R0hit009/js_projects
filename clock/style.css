@@ -1,0 +1,13 @@
+#clockContainer {
+    font-size: 48px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(235, 230, 230, 0.2);
+    background-color: white;
+}
+
